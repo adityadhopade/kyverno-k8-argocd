@@ -81,6 +81,11 @@ Using Helm charts follow the [github-link](https://github.com/argoproj/argo-helm
 Using the ArgoCD OPerator use the the [link](https://argocd-operator.readthedocs.io/en/latest/install/olm/)
 
 
+### LINK FOR THE IMPLEMENTATION
+
+[Implementation of the Project](https://codemyworld.hashnode.dev/enforce-automated-k8s-cluster-using-kyverno-policy-generator-and-argocd)
+
+
 
 **Policies we are exploring around are here to follow** [link for policies](https://github.com/kyverno/policies/blob/main/best-practices/require-pod-requests-limits/require-pod-requests-limits.yaml)
 
